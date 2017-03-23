@@ -1,21 +1,17 @@
 {
-  "name": "my-project",
+  "name": "scotch-box-test",
   "version": "1.0.0",
-  "description": "Test project",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "description": "Testing Scotch Box",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/scotch-io/scotch-box.git"
+    "url": "git+https://github.com/joshcummingsdesign/scotch-box-test.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Josh Cummings <hello@joshcummingsdesign.com> (https://joshcummingsdesign.com)",
+  "license": "GPL-2.0",
   "bugs": {
-    "url": "https://github.com/scotch-io/scotch-box/issues"
+    "url": "https://github.com/joshcummingsdesign/scotch-box-test/issues"
   },
-  "homepage": "https://github.com/scotch-io/scotch-box#readme",
+  "homepage": "https://github.com/joshcummingsdesign/scotch-box-test#readme",
   "devDependencies": {
     "browser-sync": "^2.18.8",
     "gulp": "^3.9.1",
