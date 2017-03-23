@@ -1,5 +1,7 @@
 # Scotch Box Test
 
+Testing Scotch Box
+
 1. `vagrant up`
 2. `vagrant ssh`
 3. `cd /var/www`
