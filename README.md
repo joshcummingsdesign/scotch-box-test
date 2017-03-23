@@ -2,9 +2,12 @@
 
 Testing Scotch Box
 
-1. `vagrant up`
-2. `vagrant ssh`
-3. `cd /var/www`
-4. `npm install`
-5. `gulp watch`
-6. Visit [http://192.168.33.10:3000](http://192.168.33.10:3000)
+```
+vagrant up
+vagrant ssh
+cd /var/www
+npm install
+gulp && gulp watch
+```
+
+[http://192.168.33.10:3000](http://192.168.33.10:3000)
