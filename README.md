@@ -6,7 +6,7 @@ Browsersync running inside Scotch Box.
 vagrant up
 vagrant ssh
 cd /var/www
-npm install && bower install
+npm install
 gulp && gulp watch
 ```
 
