@@ -1,12 +1,12 @@
 # Scotch Box Test
 
-Testing Scotch Box
+Browsersync running inside Scotch Box.
 
 ```
 vagrant up
 vagrant ssh
 cd /var/www
-npm install
+npm install && bower install
 gulp && gulp watch
 ```
 
